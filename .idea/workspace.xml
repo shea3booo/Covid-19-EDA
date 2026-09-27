@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870775c8-c53d-4974-bfe8-a609b6868179" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Covid_19.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Covid_19.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
